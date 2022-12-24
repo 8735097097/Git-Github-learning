@@ -1,0 +1,38 @@
+#include<stdio.h>
+int main()
+{
+    printf("#======#======#======#======#======#======#======#======#======#======#======#\n");
+    printf("\t\t\t BIO-DATA\n");
+    printf("#======#======#======#======#======#======#======#======#======#======#======#\n");
+    printf("\t\t\t Basic information\n");
+    printf("\t\t\t*******************\n");
+    printf("\t\t Name         \t:\t Maheshwari diya yogeshkumar\n");
+    printf("\t\t address      \t:\t Vadodara\n");
+    printf("\t\t mobile number\t:\t 8735097097\n");
+    printf("\t\t gender       \t:\t female\n");
+    printf("\t\t date of birth\t:\t 11/03/2005\n");
+    printf("\t\t\tEducation qualification\n");
+    printf("\t\t\t***********************\n");
+    printf("*SSC->\t ambe vidhyalaya\t->\t 2020\n");
+    printf("\t90%\n");
+    printf("\tHSC->parth institute \t->\t2022\n");
+    printf("\t83%\n");
+    printf("\t\t\t Other Informstion\n");
+    printf("\t\t\t*******************\n");
+    printf("\t\tTechnical Skills  :\t'C','C++'\n");
+    printf("\t\tHobbies\t          :\treading books,bussiness mangement,dancig\n");
+    printf("#======#======#======#======#======#======#======#======#======#======#======#======#\n");
+    printf("\t\t\t THANK YOU\n");
+    printf("#======#======#======#======#======#======#======#======#======#======#======#======#\n");
+
+
+
+
+
+
+
+
+
+
+return 0;
+}
